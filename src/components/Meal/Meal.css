@@ -1,0 +1,18 @@
+.meal {
+    border: 2px solid seagreen;
+    padding-top: 20px;
+    border-radius: 20px;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
+.add-to-cart {
+    margin-bottom: 10px;
+}
+
+.add-to-cart:hover {
+    background-color: orange;
+}
